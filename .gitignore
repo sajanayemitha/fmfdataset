@@ -1,0 +1,22 @@
+# Model / tensor files
+*.pt
+*.pth
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+
+# Dataset folders
+raw/
+processed/
+
+# Python / environment
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.vscode/
